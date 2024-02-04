@@ -1,0 +1,56 @@
+/* styles.css (ou tout autre nom de fichier de style) */
+
+/* Style pour le conteneur principal */
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    position: relative;
+    top: 100px;
+    text-align: center;
+}
+
+/* Style pour le champ de saisie */
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+
+}
+
+/* Style pour le bouton d'envoi */
+button {
+    padding: 10px 20px;
+    background-color: #505458;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #161719;
+}
+
+.container .TELE {
+    background-color: #161719;
+}
+
+/* Style pour le paragraphe affichant la valeur */
+.value-paragraph {
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.AA {
+    background-color: #161719;
+}
+
+.AA:hover {
+    background-color: #5d5a5a;
+}
